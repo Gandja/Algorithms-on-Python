@@ -1,0 +1,9 @@
+number = int(input())
+hours = (number // 3600) % 24
+minutes = ((number - 3600 * hours) // 60) % 60
+seconds = (number - hours * 3600 - minutes * 60) % 60
+firstM = minutes // 10
+secondM = minutes % 10
+firstS = seconds // 10
+secondS = seconds % 10
+print(hours, ':', firstM, secondM, ':', firstS, secondS, sep='')
