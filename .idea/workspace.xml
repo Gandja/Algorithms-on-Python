@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4dd8e8a5-6c3a-4bdc-ae31-8aca16dc4e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fith-week/Ближайшее число.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Больше предыдущего.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Количество положительных.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Лесенка.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Наименьший положительный.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Переставить min и max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Переставить соседние.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Последний максимум.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Ряд - 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Ряд - 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Флаги.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Четные индексы.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fith-week/Четные элементы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Гражданская оборона.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Отсортировать список участников по алфавиту.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Проходной балл.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Результаты олимпиады.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Слияние списков.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Создание архива.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Сортировка подсчетом.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sixth-week/Сортировка.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -30,25 +27,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Лесенка.py">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Слияние списков.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="161">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Четные индексы.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Четные элементы.py">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Сортировка.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -57,52 +45,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Количество положительных.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Последний максимум.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Больше предыдущего.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Наименьший положительный.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Ближайшее число.py">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Создание архива.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fith-week/Переставить соседние.py">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Гражданская оборона.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Отсортировать список участников по алфавиту.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Сортировка подсчетом.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Результаты олимпиады.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -111,10 +90,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fith-week/Переставить min и max.py">
+        <entry file="file://$PROJECT_DIR$/sixth-week/Проходной балл.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state>
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sixth-week/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sixth-week/output.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -166,12 +163,21 @@
         <option value="$PROJECT_DIR$/fith-week/Ближайшее число.py" />
         <option value="$PROJECT_DIR$/fith-week/Переставить соседние.py" />
         <option value="$PROJECT_DIR$/fith-week/Переставить min и max.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Слияние списков.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Сортировка.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Создание архива.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Гражданская оборона.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Отсортировать список участников по алфавиту.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Сортировка подсчетом.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Результаты олимпиады.py" />
+        <option value="$PROJECT_DIR$/sixth-week/Проходной балл.py" />
+        <option value="$PROJECT_DIR$/sixth-week/input.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="378" />
-    <option name="y" value="85" />
+    <option name="x" value="851" />
+    <option name="y" value="151" />
     <option name="width" value="776" />
     <option name="height" value="612" />
   </component>
@@ -191,7 +197,7 @@
             <path>
               <item name="Algorithms-on-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms-on-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="fith-week" type="462c0819:PsiDirectoryNode" />
+              <item name="sixth-week" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Переставить min и max">
-    <configuration name="Наименьший положительный" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Проходной балл">
+    <configuration name="Отсортировать список участников по алфавиту" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fith-week" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sixth-week" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fith-week/Наименьший положительный.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sixth-week/Отсортировать список участников по алфавиту.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ближайшее число" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Создание архива" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fith-week" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sixth-week" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fith-week/Ближайшее число.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sixth-week/Создание архива.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +276,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Переставить соседние" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Гражданская оборона" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,11 +284,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fith-week" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sixth-week" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fith-week/Переставить соседние.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sixth-week/Гражданская оборона.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Проходной балл" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sixth-week" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sixth-week/Проходной балл.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -438,7 +465,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Переставить min и max" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Результаты олимпиады" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -446,32 +473,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fith-week" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sixth-week" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fith-week/Переставить min и max.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Больше предыдущего" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fith-week" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fith-week/Больше предыдущего.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sixth-week/Результаты олимпиады.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -482,11 +488,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Переставить min и max" />
-        <item itemvalue="Python.Переставить соседние" />
-        <item itemvalue="Python.Ближайшее число" />
-        <item itemvalue="Python.Наименьший положительный" />
-        <item itemvalue="Python.Больше предыдущего" />
+        <item itemvalue="Python.Проходной балл" />
+        <item itemvalue="Python.Результаты олимпиады" />
+        <item itemvalue="Python.Отсортировать список участников по алфавиту" />
+        <item itemvalue="Python.Гражданская оборона" />
+        <item itemvalue="Python.Создание архива" />
       </list>
     </recent_temporary>
   </component>
@@ -508,13 +514,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587851056126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fifth week">
+      <created>1587900101084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587900101085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="378" y="85" width="776" height="612" extended-state="0" />
+    <frame x="571" y="94" width="776" height="612" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.24503312" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.2821192" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.24503312" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -535,7 +549,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="third and fourth weeks" />
-    <option name="LAST_COMMIT_MESSAGE" value="third and fourth weeks" />
+    <MESSAGE value="fifth week" />
+    <option name="LAST_COMMIT_MESSAGE" value="fifth week" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1133" height="258" key="GridCell.Tab.0.bottom" />
@@ -563,17 +578,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/fith-week/Ряд - 2.py</url>
+          <url>file://$PROJECT_DIR$/fifth-week/Ряд - 2.py</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="abs(x - abs(a[i]))" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -731,94 +741,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Ряд - 1.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Ряд - 1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Ряд - 2.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Ряд - 2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Флаги.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Флаги.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Лесенка.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Лесенка.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Четные индексы.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Четные индексы.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Четные элементы.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Четные элементы.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Количество положительных.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Количество положительных.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Последний максимум.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Последний максимум.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Больше предыдущего.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Больше предыдущего.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Наименьший положительный.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Наименьший положительный.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Ближайшее число.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Ближайшее число.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Переставить соседние.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Переставить соседние.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fith-week/Переставить min и max.py">
+    <entry file="file://$PROJECT_DIR$/fifth-week/Переставить min и max.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Слияние списков.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Сортировка.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Создание архива.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Гражданская оборона.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/resource/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Отсортировать список участников по алфавиту.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Сортировка подсчетом.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Результаты олимпиады.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sixth-week/Проходной балл.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
